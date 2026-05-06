@@ -1,0 +1,6 @@
+{
+  "name": "Gallery Ticket System",
+  "description": "Sistem registrasi tiket gallery online dengan fitur pembayaran QR code dan pembuatan tiket otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
